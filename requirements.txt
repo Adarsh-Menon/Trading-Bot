@@ -1,5 +1,12 @@
-lancedb
+langgraph
 langchain
 langgraph
 tavily-python
 polygon
+langchain_community
+streamlit
+fastapi[all]
+uvicorn
+langchain-pinecone
+
+-e .
